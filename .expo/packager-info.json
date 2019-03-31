@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://b2-88k.ghulam909.project4.exp.direct",
+  "packagerNgrokUrl": "https://packager.b2-88k.ghulam909.project4.exp.direct",
+  "ngrokPid": 13316,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8636,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
